@@ -1,5 +1,6 @@
 # Cloud Formation
-```Parameters:
+```
+Parameters:
   EnvironmentName:
     Description: An environment name that is prefixed to resource names
     Type: String
